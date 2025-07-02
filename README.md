@@ -22,7 +22,7 @@
 
 1. **Clone project** về máy:
    ```bash
-   git clone https://github.com/your-repo/HeNhung-main.git
+   git clone https://github.com/Tel1307/HeNhung.git
 2. Mở project bằng STM32CubeIDE:
 File .ioc sẽ tự động cấu hình chân và đồng bộ mã nguồn.
 Nếu dùng TouchGFX, mở thư mục TouchGFX với TouchGFX Designer, sau đó Generate Code.
